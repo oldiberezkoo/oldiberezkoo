@@ -21,6 +21,7 @@ oldiberezkoo@github:~$ check_skills --format matrix
 ╔══════════════════════════════════════════╗
 ║ SKILL MATRIX                    LVL[0-9] ║
 ╠══════════════════════════════════════════╣
+║ HTML     ▰▰▰▰▰▰▰▰▰▰     100      ║
 ║ TypeScript     ▰▰▰▰▰▰▰▱▱▱     7  ║
 ║ Next         ▰▰▰▰▰▰▱▱▱▱       6  ║
 ║ React          ▰▰▰▰▰▰▰▰▱▱     8  ║
