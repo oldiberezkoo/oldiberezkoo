@@ -10,7 +10,7 @@ OUTPUT:
 ┌───────────────┐
 │ oldiberezkoo  │ Software Engineer
 │ LOCATION      │ Tashkent
-│ STATUS        │ Coding...
+│ STATUS        │ idle...
 └───────────────┘
 
 oldiberezkoo@github:~$ check_skills --format matrix
@@ -23,9 +23,7 @@ oldiberezkoo@github:~$ check_skills --format matrix
 ╠══════════════════════════════════════════╣
 ║ HTML     ▰▰▰▰▰▰▰▰▰▰     100      ║
 ║ TypeScript     ▰▰▰▰▰▰▰▱▱▱     7  ║
-║ Next         ▰▰▰▰▰▰▱▱▱▱       6  ║
-║ React          ▰▰▰▰▰▰▰▰▱▱     8  ║
-║ HonoJS        ▰▰▰▰▰▰▱▱▱▱      6  ║
+║ React         ▰▰▰▰▰▰▱▱▱▱      6  ║
 ╚══════════════════════════════════════════╝
 
 oldiberezkoo@github:~$ run status.sh
@@ -34,9 +32,9 @@ oldiberezkoo@github:~$ run status.sh
 └──────────────────────────────────────────┘
 
 [AVAILABLE] ██████████ 100%
-[CODING]    ███████░░░ 70%
-[SLEEPING]  ██░░░░░░░░ 20%
-[DEBUGGING] ████████░░ 80%
+[CODING]    ░░░░░░░░░░ 0%
+[SLEEPING]  ██░░░░░░░░ 15%
+[DEBUGGING] ░░░░░░░░░░ 0%
 
 oldiberezkoo@github:~$ contact --list
 ┌──────────────────────────────────────────┐
