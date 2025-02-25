@@ -42,7 +42,7 @@ oldiberezkoo@github:~$ contact --list
 └──────────────────────────────────────────┘
 
 📧 Telegram: oldiberezko.t.me
-🌐 WEBSITE:  oldiberezko.vercel.app
+🌐 WEBSITE:  https://gravatar.com/oldiberezko
 
 oldiberezkoo@github:~$ _ ...
 ```
