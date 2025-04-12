@@ -27,9 +27,9 @@ oldiberezkoo@github:~$ check_skills --format matrix
 ║ TailwindCSS                     ▰▰▰▰▰▰▰▰▰▱      9   ║
 ║ NodeJS                          ▰▰▱▱▱▱▱▱▱▱      2   ║
 ║ Svelte                          ▰▰▰▰▱▱▱▱▱▱      4   ║
-║ Minecraft Dev                   ▰▰▰▰▱▱▱▱▱▱      4   ║
+║ Minecraft Dev                   ▰▰▰▰▰▰▰▰▰▰      10  ║
 ║ DNScrypt-proxy                  ▰▰▰▱▱▱▱▱▱▱      3   ║
-║ Web Accessibility & SEO         ▰▰▰▰▰▰▰▰▰▰      7   ║
+║ Web Accessibility & SEO         ▰▰▰▰▰▰▰▰▰▰      10  ║
 ║ Optimization & Testing          ▰▰▰▰▰▰▱▱▱▱      6   ║
 ║ Assembly systems (Webpack/Vite) ▰▰▰▰▰▱▱▱▱▱      5   ║
 ╚═══════════════════════════════════════════════════════════╝
