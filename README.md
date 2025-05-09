@@ -8,7 +8,7 @@ oldiberezkoo@github:~$ whoami
 
 OUTPUT:
 ┌───────────────┐
-│ oldiberezkoo  │ Software Engineer
+│ oldiberezkoo  │ FullStack Software Engineer
 │ LOCATION      │ Tashkent
 │ STATUS        │ idle...
 └───────────────┘
